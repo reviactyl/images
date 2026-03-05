@@ -90,8 +90,18 @@ is tagged correctly.
     * `ghcr.io/reviactyl/images:nodejs_17`
   * [`node18`](https://github.com/reviactyl/images/tree/master/nodejs/18)
     * `ghcr.io/reviactyl/images:nodejs_18`
-  * [`node20`](https://github.com/reviactyl/images/tree/master/nodejs/18)
+  * [`node20`](https://github.com/reviactyl/images/tree/master/nodejs/20)
     * `ghcr.io/reviactyl/images:nodejs_20`
+  * [`node21`](https://github.com/reviactyl/images/tree/master/nodejs/21)
+    * `ghcr.io/reviactyl/images:nodejs_21`
+  * [`node22`](https://github.com/reviactyl/images/tree/master/nodejs/22)
+    * `ghcr.io/reviactyl/images:nodejs_22`
+  * [`node23`](https://github.com/reviactyl/images/tree/master/nodejs/23)
+    * `ghcr.io/reviactyl/images:nodejs_23`
+  * [`node24`](https://github.com/reviactyl/images/tree/master/nodejs/24)
+    * `ghcr.io/reviactyl/images:nodejs_24`
+  * [`node25`](https://github.com/reviactyl/images/tree/master/nodejs/25)
+    * `ghcr.io/reviactyl/images:nodejs_25`
 * [`python`](https://github.com/reviactyl/images/tree/master/python)
   * [`python3.7`](https://github.com/reviactyl/images/tree/master/python/3.7)
     * `ghcr.io/reviactyl/images:python_3.7`
@@ -101,6 +111,14 @@ is tagged correctly.
     * `ghcr.io/reviactyl/images:python_3.9`
   * [`python3.10`](https://github.com/reviactyl/images/tree/master/python/3.10)
     * `ghcr.io/reviactyl/images:python_3.10`
+  * [`python3.11`](https://github.com/reviactyl/images/tree/master/python/3.11)
+    * `ghcr.io/reviactyl/images:python_3.11`
+  * [`python3.12`](https://github.com/reviactyl/images/tree/master/python/3.12)
+    * `ghcr.io/reviactyl/images:python_3.12`
+  * [`python3.13`](https://github.com/reviactyl/images/tree/master/python/3.13)
+    * `ghcr.io/reviactyl/images:python_3.13`
+  * [`python3.14`](https://github.com/reviactyl/images/tree/master/python/3.14)
+    * `ghcr.io/reviactyl/images:python_3.14`
 
 ### Installation Images
 
