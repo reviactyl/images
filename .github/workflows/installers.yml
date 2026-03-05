@@ -9,11 +9,15 @@ on:
     paths:
       - installers/**
 
+permissions:
+  contents: read
+  packages: write
+  
 # Two separate jobs, first for multiarch (amd64, arm64), second for amd64 only
 
 jobs:
   pushMultiArch:
-    name: "yolks:installers_multiarch:${{ matrix.tag }}"
+    name: "images:installers_multiarch:${{ matrix.tag }}"
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
@@ -45,7 +49,7 @@ jobs:
             ghcr.io/reviactyl/installers:${{ matrix.tag }}
 
   pushAmd:
-    name: "yolks:installers_amd:${{ matrix.tag }}"
+    name: "images:installers_amd:${{ matrix.tag }}"
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
