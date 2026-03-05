@@ -34,11 +34,11 @@ is tagged correctly.
     * `ghcr.io/reviactyl/images:debian`
 * [`games`](https://github.com/reviactyl/images/tree/master/games)
   * [`rust`](https://github.com/reviactyl/images/tree/master/games/rust)
-    * `ghcr.io/pterodactyl/games:rust`
+    * `ghcr.io/reviactyl/games:rust`
   * [`source`](https://github.com/reviactyl/images/tree/master/games/source)
-    * `ghcr.io/pterodactyl/games:source`
+    * `ghcr.io/reviactyl/games:source`
   * [`hytale`](https://github.com/reviactyl/images/tree/master/games/hytale)
-    * `ghcr.io/pterodactyl/games:hytale`
+    * `ghcr.io/reviactyl/games:hytale`
 * [`golang`](https://github.com/reviactyl/images/tree/master/go)
   * [`go1.14`](https://github.com/reviactyl/images/tree/master/go/1.14)
     * `ghcr.io/reviactyl/images:go_1.14`
@@ -105,10 +105,10 @@ is tagged correctly.
 ### Installation Images
 
 * [`alpine-install`](https://github.com/reviactyl/images/tree/master/installers/alpine)
-  * `ghcr.io/pterodactyl/installers:alpine`
+  * `ghcr.io/reviactyl/installers:alpine`
 
 * [`debian-install`](https://github.com/reviactyl/images/tree/master/installers/debian)
-  * `ghcr.io/pterodactyl/installers:debian`
+  * `ghcr.io/reviactyl/installers:debian`
 
 
 ## Attribution & Licenses
